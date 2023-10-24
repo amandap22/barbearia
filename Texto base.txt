@@ -1,7 +1,15 @@
 <!DOCTYPE html>
 <html> lang="pt-br">
+     <head>
+     </head>
+     <body>
+
+   </body>
+
    <meta charset="UTF-8">
-   <litle>Barbearia Alura</litle>ti
+  
+
+   <title>Barbearia Alura</title>ti
 
    <hi>Sobre a Barbearia Alura<hi>
 
